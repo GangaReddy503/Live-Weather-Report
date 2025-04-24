@@ -43,14 +43,14 @@ A *web-based application* to fetch and display real-time weather information for
 ---
 
 ### 📂 Folder Structure
-
+```
 /Live-Weather-Report
 │── index.html         # Main HTML file
 │── main.css           # Stylesheet
 │── main.js            # JavaScript logic
 │── bg-1.jpg           # Background image (optional, replace with your own)
 │── README.md          # Project documentation
-
+```
 
 ---
 
